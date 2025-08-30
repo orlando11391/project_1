@@ -4,13 +4,13 @@ layout: default
 
 # Orlando Caballero
 
-<img src="{{ site.baseurl }}/profile.jpg" alt="Orlando Caballero" width="220" style="border-radius:12px;">
+<img src="{{ site.baseurl }}/profile.jpg" alt="Orlando Caballero" width="220" style="border-radius:12px; margin-bottom:20px;">
 
 ## BI Analysis, Science & Research
 
-### Education
+### 🎓 Education
 - Actuarial Sciences
 
-### Work Experience
-- Data Analyst
+### 💼 Work Experience
+- Data Analyst  
 - R&D Analyst at MAXIA Latam
