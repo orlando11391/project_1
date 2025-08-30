@@ -1,5 +1,6 @@
 title: Orlando Caballero
-logo: /profile.jpg
+logo: /project_1/profile.jpg
 #Description: wrrite some description text
 show_downloads: False
-theme: jekyll-theme-midnight/
+theme: jekyll-theme-midnight
+baseurl: "/project_1"
