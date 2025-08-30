@@ -4,7 +4,7 @@ layout: default
 
 # Orlando Caballero
 
-<img src="/profile.jpg" alt="Orlando Caballero" width="220" style="border-radius:12px;">
+<img src="https://raw.githubusercontent.com/orlando11391/project_1/refs/heads/main/profile.jpg" alt="Orlando Caballero" width="220" style="border-radius:12px;">
 
 ## BI Analysis, Science & Research
 
