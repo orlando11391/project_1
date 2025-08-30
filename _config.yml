@@ -1,6 +1,6 @@
 title: Orlando Caballero
+Description: "BI Analysis, Science & Research"
 logo: /project_1/profile.jpg
-#Description: wrrite some description text
-show_downloads: False
+show_downloads: false
 theme: jekyll-theme-midnight
 baseurl: "/project_1"
